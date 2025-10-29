@@ -64,3 +64,5 @@ Beside the ready made punks on OpenSea there is the possibility to create your o
 ## Earn money with Jellyfish {#earn-money-with-jellyfish}
 
 Are you interested in getting regular DFI with an NFT? On [Github](https://github.com/Maurice3005/DeFiChainNFTs) there is a corresponding offer. By buying a Defichain Jellyfish you acquire a share in a Masternode and get paid for its Staking-Reward.
+
+Developer write Test

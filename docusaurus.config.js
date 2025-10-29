@@ -11,7 +11,7 @@ const config = {
   favicon: "img/Favicon.ico",
 
   // GitHub pages deployment config.
-  organizationName: "0ptim",
+  organizationName: "DefichainCommunity",
   projectName: "DeFiChainWiki",
   deploymentBranch: "gh-pages",
   trailingSlash: false,
@@ -33,7 +33,7 @@ const config = {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/0ptim/DeFiChainWiki/tree/main/",
+          editUrl: "https://github.com/DefichainCommunity/DeFiChainWiki/tree/main/",
           editLocalizedFiles: true,
           showLastUpdateTime: true,
         },
@@ -89,7 +89,7 @@ const config = {
             position: "right",
           },
           {
-            href: "https://github.com/0ptim/DeFiChainWiki",
+            href: "https://github.com/DefichainCommunity/DeFiChainWiki",
             position: "right",
             className: "header-icon-link header-icon-github",
             "aria-label": "GitHub repository",
@@ -168,7 +168,7 @@ const config = {
             items: [
               {
                 label: "GitHub (This wiki)",
-                href: "https://github.com/0ptim/DeFiChainWiki",
+                href: "https://github.com/DefichainCommunity/DeFiChainWiki",
               },
               {
                 label: "GitHub (DeFiChain)",

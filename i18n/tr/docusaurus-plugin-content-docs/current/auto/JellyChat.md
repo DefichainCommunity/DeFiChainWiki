@@ -26,4 +26,4 @@ JellyChat sorunuza yanlış yanıt verirse, wiki'de eksik veya güncel olmayan b
 
 ### Cevap veremedi
 
-JellyChat sorunuzu yanıtlayamadıysa, sorunuzu yanıtlayacak bilgiler wiki'de mevcut değildir. Bilgileri wiki'ye ekleyerek veya GitHub deposunda [yeni bir sorun oluşturarak] (https://github.com/0ptim/DeFiChainWiki/issues/new) yardımcı olabilirsiniz, böylece bilgileri ekleyebiliriz.
+JellyChat sorunuzu yanıtlayamadıysa, sorunuzu yanıtlayacak bilgiler wiki'de mevcut değildir. Bilgileri wiki'ye ekleyerek veya GitHub deposunda [yeni bir sorun oluşturarak] (https://github.com/DefichainCommunity/DeFiChainWiki/issues/new) yardımcı olabilirsiniz, böylece bilgileri ekleyebiliriz.

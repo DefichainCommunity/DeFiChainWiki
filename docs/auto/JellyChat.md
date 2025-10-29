@@ -26,4 +26,4 @@ If JellyChat answers your question incorrectly, there might be incomplete or out
 
 ### It could not answer
 
-If JellyChat could not answer your question, the information to answer your question is not available in the wiki. You can help by adding the information to the wiki or [creating a new issue](https://github.com/0ptim/DeFiChainWiki/issues/new) in the GitHub repository, so we can add the information.
+If JellyChat could not answer your question, the information to answer your question is not available in the wiki. You can help by adding the information to the wiki or [creating a new issue](https://github.com/DefichainCommunity/DeFiChainWiki/issues/new) in the GitHub repository, so we can add the information.

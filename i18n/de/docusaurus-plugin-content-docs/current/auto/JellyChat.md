@@ -26,4 +26,4 @@ Wenn JellyChat deine Frage falsch beantwortet, kann es sein, dass die Informatio
 
 ### Es konnte nicht geantwortet werden
 
-Wenn JellyChat deine Frage nicht beantworten konnte, ist die Information zur Beantwortung deiner Frage nicht im Wiki verfügbar. Du kannst helfen, indem du die Informationen zum Wiki hinzufügst oder [einen neuen Eintrag](https://github.com/0ptim/DeFiChainWiki/issues/new) im GitHub Repository erstellst, damit wir die Informationen hinzufügen können.
+Wenn JellyChat deine Frage nicht beantworten konnte, ist die Information zur Beantwortung deiner Frage nicht im Wiki verfügbar. Du kannst helfen, indem du die Informationen zum Wiki hinzufügst oder [einen neuen Eintrag](https://github.com/DefichainCommunity/DeFiChainWiki/issues/new) im GitHub Repository erstellst, damit wir die Informationen hinzufügen können.

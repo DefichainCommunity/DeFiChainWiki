@@ -1,4 +1,4 @@
-[![Deploy to GitHub Pages](https://github.com/0ptim/DeFiChainWiki/actions/workflows/deploy.yml/badge.svg)](https://github.com/0ptim/DeFiChainWiki/actions/workflows/deploy.yml)
+[![Deploy to GitHub Pages](https://github.com/DefichainCommunity/DeFiChainWiki/actions/workflows/deploy.yml/badge.svg)](https://github.com/DefichainCommunity/DeFiChainWiki/actions/workflows/deploy.yml)
 
 # DeFiChainWiki
 

@@ -7,7 +7,7 @@ Schau nach was deine Masternode macht, ohne dass die DeFiChain Desktop-Wallet l√
 
 https://www.defichain-masternode-monitor.com/
 
-![thumb](https://raw.githubusercontent.com/0ptim/DeFiChainWiki/main/docs/media/services_EN_13_Defichain-masternode-monitor-moackup.png)
+![thumb](https://raw.githubusercontent.com/DefichainCommunity/DeFiChainWiki/main/docs/media/services_EN_13_Defichain-masternode-monitor-moackup.png)
 
 ### Installation {#installation}
 

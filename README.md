@@ -2,7 +2,7 @@
 
 # DeFiChainWiki
 
-> https://defichainwiki.com/
+> https://wiki.defichain.com/
 
 DeFiChainWiki, your knowledgebase all around the DeFiChain ecosystem.
 
@@ -12,7 +12,7 @@ Maintained by the DeFiChain community. ❤
 
 Help us build out the wiki. Translate existing pages, add new ones, correct mistakes, everything which helps is appreciated.
 
-▶ [Here's](https://defichainwiki.com/docs/auto/Contribute) a quick guide on how to edit pages.
+▶ [Here's](https://wiki.defichain.com/docs/auto/Contribute) a quick guide on how to edit pages.
 
 > The wiki is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.  
 > The search functionality is implemented with [Algolia](https://www.algolia.com/).

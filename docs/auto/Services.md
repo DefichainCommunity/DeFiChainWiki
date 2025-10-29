@@ -153,7 +153,7 @@ https://www.defichain-masternode-monitor.com/
 
 ### DeFiChainWiki
 
-https://defichainwiki.com/
+https://wiki.defichain.com/
 
 ![](../media/services_EN_14_Wiki.png)
 

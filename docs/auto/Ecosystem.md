@@ -3,10 +3,6 @@ title: Ecosystem
 description: The most important DeFiChain socials, block explorer and more.
 ---
 
-**🔗 You can explore a complete list of all links on [defilinks.io](https://defilinks.io/)**
-
-**🧭 For an overview on how tokens can be aquired, sold or transfered, have a look at [defichain-ecosystem.com](https://defichain-ecosystem.com/)**
-
 ## 🌐 Main Website
 
 [defichain.com](https://defichain.com/)
@@ -49,16 +45,16 @@ Explainer videos, news show, community interviews, project presentations and mor
 
 ![](./../media/ecosystem_youtube.png)
 
-## 📷 On Instagram
-
-[Instagram profile](https://www.instagram.com/defichain.official/)
-
-Follow DeFiChain on Instagram to get the latest news on your timeline.
-
-![](./../media/ecosystem_instagram.png)
-
 ## 🗣️ On Reddit
 
 [Reddit](https://reddit.com/r/defiblockchain/)
 
 ![](./../media/ecosystem_reddit.png)
+
+## 🛠️ On Github
+
+[Github](https://github.com/DeFiCh/ain)
+
+## 🗣️ On Discord
+
+[Discord](https://discord.gg/y4bWMvUk)

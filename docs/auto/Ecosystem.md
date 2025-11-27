@@ -55,6 +55,10 @@ Explainer videos, news show, community interviews, project presentations and mor
 
 [Github](https://github.com/DeFiCh/ain)
 
+![](docs/media/Page Github.png)
+
 ## 🗣️ On Discord
 
 [Discord](https://discord.gg/y4bWMvUk)
+
+![](docs/media/Logo Discord.png)

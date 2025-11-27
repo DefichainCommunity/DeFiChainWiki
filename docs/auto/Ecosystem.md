@@ -55,10 +55,10 @@ Explainer videos, news show, community interviews, project presentations and mor
 
 [Github](https://github.com/DeFiCh/ain)
 
-![](docs/media/Page Github.png)
+![](https://github.com/DefichainCommunity/DeFiChainWiki/blob/main/docs/media/Page%20Github.png?raw=true)
 
 ## 🗣️ On Discord
 
 [Discord](https://discord.gg/y4bWMvUk)
 
-![](docs/media/Logo Discord.png)
+![](https://github.com/DefichainCommunity/DeFiChainWiki/blob/main/docs/media/Logo%20Discord.png?raw=true)

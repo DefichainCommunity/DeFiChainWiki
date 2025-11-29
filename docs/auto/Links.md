@@ -15,9 +15,6 @@ title: Links
 - <https://t.me/defiblockchain_TR> Turkey-DFI-channel for general DFI-discussions
 - https://t.me/Bake_DACH Exchange and platform for decentralized financial services.Offers DFI and DFI staking (german speaking)
 - https://t.me/Bake_EN Exchange and platform for decentralized financial services.Offers DFI and DFI staking (english speaking)
-
-### Projects & Companies
-
 - <https://t.me/mydefichain> Discussions about masternodes (english speaking)
 
 ## DMC Projects
@@ -26,6 +23,9 @@ title: Links
 - https://www.dex-trading.live/
 - https://dapp.tax-token.com/staking
 
+## Masternode provider
+
+- https://mydeficha.in/en/
 
 ## X {#X}
 

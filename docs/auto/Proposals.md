@@ -15,15 +15,14 @@ Both DFIPs and CFPs are supposed to be discussed first on Reddit to get an overv
 
 DFIPs are made to improve DeFiChain itself in general with improvements to features, new features or new rules. After a DFIP is approved the developers take care of the implementation.
 
-An example of a DFIP was using futures contracts to solve the premium of tokenized stocks on DeFiChain (read more about DFIP-2203-A), or allowing tokenized Ethereum to be used in a vault (read more about DFIP-2203-B). You can read through all DFIPs on [www.defichain-votings.com](https://www.defichain-votings.com)
+An example of a DFIP was using futures contracts to solve the premium of tokenized stocks on DeFiChain (read more about DFIP-2203-A), or allowing tokenized Ethereum to be used in a vault (read more about DFIP-2203-B). You can read through all DFIPs on https://defiscan.live/governance .
 
 To avoid not-serious DFIPs there is a fee of 50 DFI to be paid as soon as a DFIP is put online.
 
 ### CFPs {#cfps}
 
-CFPs are proposals by community members. Community proposals are used to get funding from DeFiChain's Community Fund, which is created by masternodes' block rewards. Community members can request funding for an idea with which they want to add value to the ecosystem. Many community projects in the DeFiChain ecosystem are partly funded by our community fund. You can read through all CFPs on [www.defichain-votings.com](https://www.defichain-votings.com)
+CFPs are proposals by community members. Community proposals are used to get funding from DeFiChain's Community Fund, which is created by masternodes' block rewards. Community members can request funding for an idea with which they want to add value to the ecosystem. Many community projects in the DeFiChain ecosystem are partly funded by our community fund. You can read through all CFPs on https://defiscan.live/governance .
 
-The current progress of every CFP can be monitored on [defichain-cfp-tracker.com](https://www.defichain-cfp-tracker.com/b/7Qcqu3xl/defichain-cfp-projects).
 
 To avoid not-serious CFPs there is a fee of 1% of the requested amount of DFI to be paid as soon as a CFP is put online.
 

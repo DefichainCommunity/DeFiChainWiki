@@ -3,8 +3,7 @@ title: Staking
 description: Staking - DeFiChain's Proof of Stake mechanism to secure the network. Preventing malicious users to take over the network.
 ---
 
-(Work-In-Progress)
+DeFiChain uses a proof-of-stake (PoS) model to secure the network. Users must stake a certain amount of DFI to create a masternode. Masternodes are nodes that are allowed to create blocks and receive block rewards for doing so.
+If a masternode acts maliciously, it is locked. This prevents malicious actors from gaining control of the network unless they have a large amount of DFI to stake. It is important to note that banned masternodes do not occur randomly, but are only caused by malicious users.
 
-DeFiChain uses a Proof-of-Stake (PoS) model in order to secure the network. Users must stake an amount of DFI to create a [masternode](./Masternode.md). Masternodes are nodes that are allowed to create blocks, in return for block rewards. In case of malicious intent by a masternode, it is banned. This way, malicious actors cannot gain control of the network unless they have a large amount of DFI to stake. It is important to note, banned masternodes do not happen accidentally, they are only caused by malicious users.
-
-Currently, the amount of DFI that is required to stake is 20,000 DFI, although it is possible to use a service provider such as Cake to stake less than that amount.
+Currently, the required amount of DFI is 20,000 DFI, but it is possible to use a service provider such as Bake (https://bake.io/) or Crypto Factor (https://linktr.ee/crypto.factor) to stake less than this amount.

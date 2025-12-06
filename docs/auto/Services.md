@@ -48,20 +48,6 @@ https://chainz.cryptoid.info/dfi/
 
 ![](../media/services_EN_12_Cryptoid.png)
 
-### DeFiChain Masternode Monitor
-
-See what's going on on your Masternodes without having the DeFiChain Wallet desktop app running.
-
-So, you can check the activities of your masternodes right from your smartphone or any other computer with internet access.
-
-Have a look on the corresponding [DeFiChainWiki page of the Masternode Monitor](./DeFiChain-Masternode-Monitor.md).
-
-https://www.defichain-masternode-monitor.com/
-
-![](../media/services_EN_13_Defichain-masternode-monitor-moackup.png)
-
-![](../media/services_EN_17_How-do-i-buy-dfi.png)
-
 ### DeFiNode - Raspberry Pi 4
 
 With this project you can 3D print your DeFiNode case and run a node or wallet locally on a Raspberry Pi 4. [Information here](./App_on_Raspberry-Pi.md).

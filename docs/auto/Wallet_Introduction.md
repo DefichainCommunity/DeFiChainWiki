@@ -3,10 +3,6 @@ title: Beginners Guide
 description: A beginners guide to DefiChain. Choose the right wallet for your needs and buy DFI coins on an exchange.
 ---
 
-If you speak German and prefer videos you can start [here 🎬](https://www.youtube.com/watch?v=q4MUebLlLzM&list=PLc-FB8e3YKYtju2G0O7bcUB1FE2t2SD0j). Please be aware that information in the videos might be outdated due to continous development of DeFiChain and the production date of the video.
-
-You prefer written information? Here we go!
-
 ## Decision: Which wallet should you use? {#decision-which-wallet-should-you-use}
 
 With a wallet-app you will be able to access your DFI-Coins, which are on the blockchain.
@@ -22,6 +18,7 @@ You can use your wallet especially for
 - join future-swaps
 
 Currently you can choose among the following wallets
+
 
 ### DeFiChain Light Wallet {#defichain-light-wallet}
 
@@ -39,24 +36,6 @@ The following list is not a necessarily complete one. You are completely respons
 - Don't put your 24 words in an app or bot which you can't verify as legit.
 
 For convenience you place a 6-digit-code for signing transactions, so you don't need your 24 words every time you use the wallet. After entering three times a wrong code the app will be reset and you need your 24 words to get access to your funds again.
-
-### DFX Light Wallet {#dfx-light-wallet}
-
-![](./../media/beginnersguide_EN_02.jpg)
-
-The DFX Light Wallet is a modified version of the Light wallet with several added functionalities concerning DFX.Swiss services. Among others those functions are Staking and participating in votings.
-
-Further information can be found here in the [DFX-Wiki-chapters](./DFX_FAQ.md)
-
-### Jellywallet {#jellywallet}
-
-The Jellywallet is the youngest member of the DeFiChain-Wallet-family. It is a Chrome-extension. So it is great for users who prefer working with a PC or laptop instead of a smartphone.
-
-Jellywallet also uses a 24-words-seed-phrase which is full compatible with the LightWallet-seed. So you can use your wallet with a laptop as well as with a smartphone.
-
-Usage of Vaults and Loans is not possible as of today.
-
-The wallet with further information can be downloaded [here](https://jellywallet.io/).
 
 ### Full-Node-Wallet {#full-node-wallet}
 

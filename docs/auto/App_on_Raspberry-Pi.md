@@ -29,8 +29,6 @@ run a Node or Wallet locally on a Raspberry Pi 4.
   - Installation script for creating the Defi Wallet
 - [DeFiNode on Telegram](https://t.me/DeFi_Node), for questions and
   support
-- [DeFiNode Druckservice](https://www.gabrielkunzer.com/definode/),
-  there you can order your own DEFI case
 
 #### Pros {#pros}
 

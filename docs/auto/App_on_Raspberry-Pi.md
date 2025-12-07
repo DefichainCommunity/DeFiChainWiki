@@ -50,9 +50,6 @@ easier.
 
 #### Links {#links-1}
 
-- [Google
-  Drive](https://drive.google.com/drive/folders/1yGWeP8gqt5JNypeeJTZ-0aqh-k04m7Jj?usp=sharing),
-  there is the image file available for download
 - [RaspberryPi Imager](https://www.raspberrypi.org/software/), for
   copying the image to the memory card
 

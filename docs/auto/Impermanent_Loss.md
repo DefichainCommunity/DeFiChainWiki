@@ -11,15 +11,7 @@ There is currently 9,000 DFI and 9 BTC in the BTC-DFI pool. The ratio of the poo
 
 _Rule of thumb: The longer you wait, the lesser is the risk of a loss._
 
-**A detailed explanation of impermanent loss can be found here:**
-
-<https://julianhosp.com/impermanent-loss-other-liquidity-mining-risks-explained/>
-
 **A calculator to calculate the impermanent loss is here:**
-
-<https://decentyields.com/impermanent-loss-calculator>
-
-and:
 
 <https://www.krypto-magazin.de/impermanent-loss-rechner/> (in German)
 

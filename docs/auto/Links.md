@@ -4,6 +4,7 @@ title: Links
 
 ## Telegram channels
 
+- https://t.me/DeFiChain_Wiki International channel special for this wiki
 - <https://t.me/defiblockchain> International (english speaking) DFI-channel for general DFI-discussions
 - https://t.me/DeFiChainFuture International (english speaking) DFI-channel for technical and future-oriented DFI-discussions
 - <https://t.me/defiblockchain_DE> DACH (german speaking) DFI-channel for general DFI-discussions

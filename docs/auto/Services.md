@@ -60,10 +60,12 @@ https://github.com/definode/definode
 ![](../media/services_EN_18_DeFiNode_raw.png)
 
 
-### DeFiChain related NFTs
+### Jellyfish
 
-NFTs have joined Punks and Jellyfishs in the DeFiChain community. Show your connection and treat yourself to one as your profile picture.
+SDK & Ecosystem for building modern lite DeFi Applications at scale
 
-[Information here](./Punks.md)
+https://jellyfishsdk.com/
 
-![](../media/DeFiChain_Punks.gif)
+![](<img width="1114" height="214" alt="image" src="https://github.com/user-attachments/assets/f68ab667-0b61-45eb-9f6e-10c9b8cc2be6" />
+)
+

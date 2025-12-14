@@ -66,6 +66,5 @@ SDK & Ecosystem for building modern lite DeFi Applications at scale
 
 https://jellyfishsdk.com/
 
-![](<img width="1114" height="214" alt="image" src="https://github.com/user-attachments/assets/f68ab667-0b61-45eb-9f6e-10c9b8cc2be6" />
-)
+![](docs/media/Logo Jellyfish.png)
 

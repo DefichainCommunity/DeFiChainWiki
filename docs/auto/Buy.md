@@ -11,7 +11,7 @@ To obtain DFI, there are three main methods.
 - Crypto Factor Bridge
 - Exchanges
 
-### Bake {#Bake}
+### Bake
 
 https://bake.io/
 

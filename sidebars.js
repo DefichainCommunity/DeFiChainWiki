@@ -127,7 +127,6 @@ const sidebars = {
                   items: [
                     "auto/App_on_Windows_Cloud_Server",
                     "auto/App_on_Raspberry-Pi",
-                    "auto/Saiivelive",
                   ],
                 },
                 {

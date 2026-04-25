@@ -263,11 +263,6 @@ const sidebars = {
               items: [
                 {
                   type: "link",
-                  label: "Jellyfish Documentation",
-                  href: "https://jellyfish.defichain.com/",
-                },
-                {
-                  type: "link",
                   label: "Chain Documentation",
                   href: "https://github.com/DeFiCh/ain/wiki ",
                 },

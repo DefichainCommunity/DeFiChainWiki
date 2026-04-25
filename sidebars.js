@@ -251,7 +251,6 @@ const sidebars = {
             description: "Coding guides and resources.",
           },
           items: [
-            "auto/Jellyfish_tutorial",
             "auto/Testnet",
             "auto/CustomTransaction",
             {

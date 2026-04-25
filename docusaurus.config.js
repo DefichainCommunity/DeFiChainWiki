@@ -150,14 +150,7 @@ const config = {
                 label: "Discord",
                 href: "https://discord.com/invite/py55egyaGy",
               },
-              {
-                label: "Facebook",
-                href: "https://facebook.com/defichain.official",
-              },
-              {
-                label: "Linkedin",
-                href: "https://www.linkedin.com/company/defichain/",
-              },
+              
             ],
           },
           {

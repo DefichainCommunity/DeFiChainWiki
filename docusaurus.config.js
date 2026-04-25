@@ -121,10 +121,6 @@ const config = {
                 label: "Blog",
                 href: "https://blog.defichain.com/",
               },
-              {
-                label: "Newsletter",
-                href: "https://c5ba029c.sibforms.com/serve/MUIEADS1VD9jeTSbGfIUoyPsNa3KLu71UW5xxDPwaHGfiveQ7kVjoZcEhKCVBzwP_2bI77gCYOv6Q3BRc2r9AASyyF8RAAF-8f8pc__eJ5-oFdMATZ2LY_S56oug5cPWpT58oVBcsqf3Pr_gmOkCXmiiUewbvX9tMvgFU-50rwv-vJ5H7tzmg5OAUvBuHS76cQJZAHv0wSIUefYJ",
-              },
             ],
           },
           {

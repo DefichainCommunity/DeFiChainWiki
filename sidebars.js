@@ -292,6 +292,9 @@ const sidebars = {
         "auto/Masternode-Tracking-Google-Sheet",
         "auto/Masternode_service",
         "auto/Vault_maxi",
+      ],
+     },
+    "auto/Contribute",
     "auto/Links",
   ],
 };

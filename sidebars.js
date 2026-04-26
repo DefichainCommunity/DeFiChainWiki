@@ -241,6 +241,18 @@ const sidebars = {
               },
               items: ["auto/Lightwallet", "auto/Lightwallet_change_Ocean"],
             },
+           {
+            type: "category",
+            label: "MetaMask",
+            link: {
+              type: "doc",
+              id: "auto/MetaMask",
+            },
+            items: [
+              "auto/MetaMask_Wallet",
+              "auto/MetaMask_Token_Adresses",
+            ],
+          },
           ],
         },
         "auto/Cashflow_Options",

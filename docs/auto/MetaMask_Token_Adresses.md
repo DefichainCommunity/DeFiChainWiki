@@ -1,9 +1,5 @@
 ---
 title: Token Adresses
-description: Token addresses for MetaMask.
----
----
-title: Token Adresses
 description: Token addresses for MetaMask on DeFiMetaChain.
 ---
 

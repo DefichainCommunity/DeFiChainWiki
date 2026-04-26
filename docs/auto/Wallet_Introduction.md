@@ -24,6 +24,8 @@ Currently you can choose among the following wallets
 
 ![](./../media/beginnersguide_EN_01.jpg)
 
+![](../media/beginnersguide_EN_01_01.jpg)
+
 The [Light Wallet](./Lightwallet.md) is available for your Android- and iOS-smartphone. This app doesn't syncronize the complet blockchain. So it needs less memory and is faster ready for use. Furthermore the User Interface makes it easier to enter the DeFiChain ecosystem.
 
 The [light Wallet](./Lightwallet.md) uses a 24-words-seed-phrase to grant access to your funds. Please be sure you follow the safety recommendations when using the app.

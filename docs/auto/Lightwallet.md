@@ -7,11 +7,11 @@ description: The Lightwallet is the most used mobile app to access the DeFiChain
 
 The most common wallet for DeFiChain, the so called light wallet is the app for mobile devices “DeFiChain Wallet“. You find it on the google app store for Android or apples app store for iOs devices.
 
-<https://play.google.com/store/apps/details?id=com.defichain.app>
+https://play.google.com/store/search?q=DeFichain&c=apps&hl=de
 
 <https://apps.apple.com/app/defichain-wallet/id1572472820>
 
-The app is developed and actively maintained by Birthday Research – the R&D (Research and Development) arm of Cake DeFi <https://birthday.dev/>
+The app was developed by Birthday Research. Birthday Research has dissolved. Since then, the community has been responsible for maintenance and development.
 
 The app gets updated frequently so always check if you are using the latest version.
 

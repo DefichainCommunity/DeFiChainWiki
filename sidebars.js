@@ -100,6 +100,20 @@ const sidebars = {
       },
       items: [
         "auto/Buy",
+       {
+          type: "category",
+          label: "DMC - DeFiMetaChain",
+          link: {
+            type: "doc",
+            id: "auto/DMC",
+          },
+          items: [
+            "auto/Crypto_Factor",
+            "auto/TAX",
+            "auto/DexTrading_Live",
+            "auto/DeFiChain_Community_Services",
+          ],
+        },
         {
           type: "category",
           label: "Wallets",

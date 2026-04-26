@@ -4,6 +4,7 @@ description: Guide of how to contribute to DeFiChain Wiki. Edit pages directly o
 ---
 
 It would be appreciated if you joined our [Telegram group](https://t.me/defichain_wiki) to discuss any changes you want to make. This way we can avoid any unnecessary work and coordinate our efforts.
+But of course you can also send us suggestions, texts or errors by email: marketing@defichain.com
 
 ## Requirements
 

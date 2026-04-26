@@ -7,7 +7,7 @@ description: This page explains the ways that a user can get DFI.
 
 To obtain DFI, there are three main methods.
 
-- Bake
+- Bake (Currently suspended)
 - Crypto Factor Bridge
 - Exchanges
 

@@ -104,14 +104,14 @@ const sidebars = {
           type: "category",
           label: "DMC - DeFiMetaChain",
           link: {
-            type: "doc",
-            id: "auto/DMC",
+            type: "generated-index",
+            description: "Everything about DMC - DeFiMetaChain.",
           },
           items: [
-            "auto/Crypto_Factor",
-            "auto/TAX",
-            "auto/DexTrading_Live",
-            "auto/DeFiChain_Community_Services",
+            "auto/DMC/Crypto_Factor",
+            "auto/DMC/TAX",
+            "auto/DMC/DexTrading_Live",
+            "auto/DMC/DeFiChain_Community_Services",
           ],
         },
         {

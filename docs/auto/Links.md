@@ -26,7 +26,7 @@ title: Links
 ## X {#X}
 
 - <https://twitter.com/defichain> Main DeFiChain Twitter account
-- https://twitter.com/i/communities/1887173208173924454 ↗ DMC Community
+- https://twitter.com/i/communities/1887173208173924454 ↗ DeFiChain Community on X
 - https://x.com/_Crypto_Factor?t=i1wsDx3EHHRBTDJAEUPlSA&s=09 DMC project
 - https://x.com/DexTradingLive?t=FjZFvrvwsxpIa-AzR5jIGg&s=09 DMC project
 - https://x.com/the_tax_intern?t=Xm-fkKxfE1fDkdXp55AgRw&s=09 DMC project

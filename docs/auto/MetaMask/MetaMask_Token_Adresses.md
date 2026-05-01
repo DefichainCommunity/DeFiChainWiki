@@ -37,8 +37,6 @@ To do this, you need the **token contract address** – a unique address on the 
 
 Make sure you are on the **correct network**. A token always exists on one specific blockchain only.
 
-```
-
 > ⚠️ An Ethereum token only works on the Ethereum network, a Polygon token only on Polygon, etc.
 
 ### Step 2 – Open "Import Token"
@@ -126,7 +124,6 @@ Go to the block explorer of the relevant network and search for the token name:
 Many projects list their token address directly on their official website or documentation.
 
 ---
-
 
 import CopyButton from '@site/src/components/CopyButton';
 

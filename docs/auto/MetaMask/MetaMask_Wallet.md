@@ -143,7 +143,7 @@ Open the **Google Play Store** and search for **"MetaMask"**.
 Or go directly to the **MetaMask Website**
 
 📲 [Open MetaMask in the Play Store](https://play.google.com/store/apps/details?id=io.metamask)
-📲 [Open MetaMask on the MetaMask Website](https://play.google.com/store/apps/details?id=com.defichaincommunity.app&pcampaignid=web_share)
+📲 [Open MetaMask on the MetaMask Website](https://metamask.io/download)
 
 > ⚠️ **Important:** Check that the developer is **ConsenSys**. Only install from the official Play Store!  
 > Never download APK files from third-party websites – this is a common scam!

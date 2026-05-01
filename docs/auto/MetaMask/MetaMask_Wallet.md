@@ -2,33 +2,45 @@
 title: Wallet
 description: MetaMask Wallet setup and usage.
 ---
----title: Walletdescription: MetaMask Wallet setup and usage.
----# 🦊 Installing MetaMask – Beginner's Guide
+
+# 🦊 Installing MetaMask
+
 ## 📋 Table of Contents
+
 - [💻 Desktop – Browser Extension](#-desktop--browser-extension)
 - [🍎 iPhone – iOS App](#-iphone--ios-app)
 - [🤖 Android App](#-android-app)
 - [🔗 Official Links](#-official-links)
----## 💻 Desktop – Browser Extension
-Install MetaMask as an extension in Chrome, Firefox, Brave, or Edge.
-### Step 1 – Visit Official Website
-Open your browser and enter the address **manually**:
 
+
+---
+
+
+## 💻 Desktop – Browser Extension
+
+Install MetaMask as a browser extension in Chrome, Firefox, Brave or Edge.
+
+### Step 1 – Visit the Official Website
+
+Open your browser and type the address **manually**:
+
+```
 https://metamask.io
+```
 
-> ⚠️ **Attention:** There are fake sites with similar names. Always check the URL carefully!
+> ⚠️ **Warning:** There are fake websites with similar names. Always double-check the URL!
 
-### Step 2 – Install Extension
+### Step 2 – Install the Extension
 
-Click on **"Download"** – you will be redirected to your browser's extension store.
+Click **"Download"** – you will be redirected to your browser's extension store.
 
-Click **"Add to Chrome"** (or your browser's equivalent) and confirm in the popup.
+Click **"Add to Chrome"** and confirm in the popup.
 
-> ✅ Works with **Chrome**, **Firefox**, **Brave**, and **Edge**.
+> ✅ Works with **Chrome**, **Firefox**, **Brave** and **Edge**.
 
-After installation, the 🦊 **fox icon** will appear at the top right of your browser bar.
+After installation, the 🦊 **fox icon** will appear in the top right of your browser.
 
-### Step 3 – Create New Wallet
+### Step 3 – Create a New Wallet
 
 Click the 🦊 fox icon → **"Create a new wallet"** and agree to the terms of use.
 
@@ -36,142 +48,152 @@ Click the 🦊 fox icon → **"Create a new wallet"** and agree to the terms of 
 
 Create a strong password for local access on this device.
 
-**Password Tips:**
+**Password tips:**
 - ✅ At least 12 characters
-- ✅ Uppercase/lowercase letters, numbers, and special characters
-- ✅ Write down the password securely or use a password manager
+- ✅ Upper/lowercase letters, numbers and special characters
+- ✅ Store your password safely or use a password manager
 
-### Step 5 – 🔑 Secure Secret Recovery Phrase
+### Step 5 – 🔑 Back Up Your Secret Recovery Phrase
 
 > 🚨 **THIS IS THE MOST IMPORTANT STEP!**
 
-MetaMask will show you **12 secret words** – the so-called **Secret Recovery Phrase**.
-
-
+MetaMask will show you **12 secret words** – called the **Secret Recovery Phrase**.
 
 | ✅ Do | ❌ Never do |
-|--------|----------------|
-| Write down by hand on paper | Take a screenshot |
-| Follow the exact order | Save in the cloud (Google Drive, iCloud…) |
-| Store safely (e.g., safe) | Send via email or message |
-| Keep multiple copies in different locations | Share with anyone |
+|-------|------------|
+| Write it down by hand on paper | Take a screenshot |
+| Keep the exact word order | Store it in the cloud (Google Drive, iCloud…) |
+| Store it somewhere safe (e.g. a safe) | Send it via email or message |
+| Make multiple copies in different places | Share it with anyone |
 
 > 🚨 **Anyone who knows these 12 words has full access to your wallet – forever!**  
 > MetaMask will **NEVER** ask you for this phrase.
 
-### Step 6 – Confirm Phrase
+### Step 6 – Confirm Your Phrase
 
-MetaMask will ask you to type some words in the correct order – for security.
+MetaMask will ask you to retype some of the words in the correct order – for your own security.
 
-> 💡 When confirming, look at your handwritten sheet – not at the screen!
+> 💡 Look at your handwritten note when confirming – not at the screen!
 
-### Step 7 – 🎉 Wallet is Ready!
+### Step 7 – 🎉 Your Wallet is Ready!
 
 Your MetaMask wallet is set up. You will see:
 - Your **Ethereum address** (starts with `0x...`)
-- Your **balance** (initially 0 ETH)
-- Buttons to **Send**, **Receive**, and **Buy**
+- Your **balance** (0 ETH to start)
+- Buttons to **Send**, **Receive** and **Buy**
+
 
 ---
+
 
 ## 🍎 iPhone – iOS App
 
-### Step 1 – Open App Store
+### Step 1 – Open the App Store or go to the MetaMask Website.
 
 Open the **App Store** on your iPhone and search for **"MetaMask"**.
+Or go directly to the **MetaMask Website**
 
-📲 [Open MetaMask in App Store](https://apple.com)
+📲 [Open MetaMask in the App Store](https://apps.apple.com/app/metamask/id1438144202)
+📲 [Open MetaMask on the MetaMask Website](https://metamask.io/download)
 
-> ⚠️ **Important:** Look for the developer **ConsenSys**. Only download the app from the official App Store – there are fake copies!
+> ⚠️ **Important:** Check that the developer is **ConsenSys**. Only download from the official App Store or Website – fake copies exist!
 
-### Step 2 – Install & Open App
+### Step 2 – Install & Open the App
 
-Tap **"Get"** and confirm with **Face ID**, **Touch ID**, or your Apple password.
+Tap **"Get"** and confirm with **Face ID**, **Touch ID** or your Apple password.
 
-### Step 3 – Create New Wallet
+### Step 3 – Create a New Wallet
 
-On the first launch, tap **"Create a new wallet"** and agree to the terms of use.
+On first launch, tap **"Create a new wallet"** and agree to the terms of use.
 
 ### Step 4 – Set Up Password & Face ID
 
-Create a secure password. Then activate **Face ID or Touch ID** for quick unlocking.
+Create a secure password. Then enable **Face ID or Touch ID** for quick and secure access.
 
-> ✅ **Tip:** Activate biometrics – convenient and still secure!
+> ✅ **Tip:** Enable biometrics – convenient and still secure!
 
-### Step 5 – 🔑 Secure Recovery Phrase
+### Step 5 – 🔑 Back Up Your Recovery Phrase
 
-Identical to desktop: MetaMask shows you **12 secret words**.
+Same as Desktop: MetaMask shows you **12 secret words**. Write them down by hand!
 
 > 🚨 **No screenshots on iOS!**  
-> Photos are automatically **synced with iCloud**. Write the words on paper!
+> Photos are automatically synced with **iCloud**. Write the words on paper!
 
 **Never on iOS:**
-- ❌ No screenshot – iCloud syncs automatically!
+- ❌ No screenshots – iCloud syncs automatically!
 - ❌ Do not save in Apple Notes or iCloud Drive
 - ❌ Never send via iMessage or WhatsApp
 
-### Step 6 – 🎉 App Ready for Use!
+### Step 6 – 🎉 App is Ready!
 
-Your wallet is fully set up. You have access to:
+Your wallet is set up. You have access to:
 - Your **balance**
-- **Sending & Receiving** crypto
-- The integrated **DApp browser**
+- **Send & Receive** crypto
+- The built-in **DApp browser**
+
 
 ---
 
+
 ## 🤖 Android App
 
-### Step 1 – Open Google Play Store
+### Step 1 – Open the Google Play Store or go to the MetaMask Website.
 
 Open the **Google Play Store** and search for **"MetaMask"**.
+Or go directly to the **MetaMask Website**
 
-📲 [Open MetaMask in Play Store](https://google.com)
+📲 [Open MetaMask in the Play Store](https://play.google.com/store/apps/details?id=io.metamask)
+📲 [Open MetaMask on the MetaMask Website](https://play.google.com/store/apps/details?id=com.defichaincommunity.app&pcampaignid=web_share)
 
-> ⚠️ **Important:** Look for the developer **ConsenSys**. Only install MetaMask from the **Play Store**!  
-> Do not download APK files from third-party websites – this is a common scam!
+> ⚠️ **Important:** Check that the developer is **ConsenSys**. Only install from the official Play Store!  
+> Never download APK files from third-party websites – this is a common scam!
 
-### Step 2 – Install & Open App
+### Step 2 – Install & Open the App
 
 Tap **"Install"**, wait for the download to finish, and open the app.
 
-> ✅ The user interface on Android is nearly identical to iOS.
+> ✅ The interface on Android is nearly identical to iOS.
 
-### Step 3 – Create New Wallet
+### Step 3 – Create a New Wallet
 
-On the first launch, select **"Create a new wallet"** and agree to the terms of use.
+On first launch, choose **"Create a new wallet"** and agree to the terms of use.
 
 ### Step 4 – Set Up Password & Fingerprint
 
-Create a secure password. Then activate the **fingerprint sensor or facial recognition** of your device.
+Create a secure password. Then enable the **fingerprint sensor or face recognition** on your device.
 
-> ✅ **Tip:** Activate biometrics – fast, secure, and practical!
+### Step 5 – 🔑 Back Up Your Recovery Phrase
 
-### Step 5 – 🔑 Secure Recovery Phrase
-
-MetaMask shows you the **12 secret words** on Android as well. Write them on paper!
+MetaMask will also show you **12 secret words** on Android. Write them on paper!
 
 > 🚨 **No screenshots on Android!**  
 > **Google Photos** automatically syncs images to the cloud. Write the words on paper!
 
 **Never on Android:**
-- ❌ No screenshot – Google Photos syncs automatically!
+- ❌ No screenshots – Google Photos syncs automatically!
 - ❌ Do not save in Google Drive or Google Keep
-- ❌ Never send via WhatsApp, Telegram, or SMS
+- ❌ Never send via WhatsApp, Telegram or SMS
 
-### Step 6 – 🎉 App Ready for Use!
+### Step 6 – 🎉 App is Ready!
 
 Your MetaMask wallet is ready on Android! You can:
 - Manage your **balance**
-- **Send & Receive** crypto
-- Use **DApps** via the integrated browser
+- **Send & receive** crypto
+- Use **DApps** via the built-in browser
+
 
 ---
+
 
 ## 🔗 Official Links
 
 | Resource | Link |
-|-----------|------|
+|----------|------|
 | 🌐 MetaMask Website | [metamask.io](https://metamask.io) |
-| 📖 Official Support | [support.metamask.io](https://metamask.io) |
-| 🍎 App Store | [MetaMask for iPhone](https://apple.com) |
-| 🤖 Play Store | [MetaMask for Android](https://google.com) |
+| 📖 Official Support | [support.metamask.io](https://support.metamask.io) |
+| 🍎 App Store | [MetaMask for iPhone](https://apps.apple.com/app/metamask/id1438144202) |
+| 🤖 Play Store | [MetaMask for Android](https://play.google.com/store/apps/details?id=com.defichaincommunity.app&pcampaignid=web_share) |
+
+---
+
+

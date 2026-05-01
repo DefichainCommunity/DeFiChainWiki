@@ -38,8 +38,6 @@ To do this, you need the **token contract address** – a unique address on the 
 Make sure you are on the **correct network**. A token always exists on one specific blockchain only.
 
 ```
-🦊 MetaMask → Network Dropdown → Select Network
-```
 
 > ⚠️ An Ethereum token only works on the Ethereum network, a Polygon token only on Polygon, etc.
 

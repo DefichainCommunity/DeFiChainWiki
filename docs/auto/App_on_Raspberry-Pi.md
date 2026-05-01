@@ -90,3 +90,4 @@ fullnode are available in 32-bit and 64-bit versions respectively.
 #### Cons {#cons-2}
 
 - Since fully compiled, "Don't trust - verify" is not given
+

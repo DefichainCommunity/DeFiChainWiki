@@ -30,3 +30,4 @@ The functions on the blockchain are the same as in the Mainnet. For sure there a
 There is a page <https://testnet-utxo.mydefichain.com/> where you can request 1.000 DFI every 6 hours.
 
 The DFI are sent to a testnet address you can provide in the form on the page. Note that testnet addresses always start with **t** and not with **d** as on the mainnet. You only need to solve a capcha and then the DFI are sent quickly.
+

@@ -16,3 +16,4 @@ DefiChain is basically a fork of Bitcoin. Therefor transactions ...
 ## Decoding OP_RETURN Hex {#decoding-op_return-hex}
 
 step by step... PUSHDATA, DfTx Marker, function Name... etc.
+

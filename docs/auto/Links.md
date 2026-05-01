@@ -9,8 +9,8 @@ title: Links
 - https://t.me/DeFiChainFuture International (english speaking) DFI-channel for technical and future-oriented DFI-discussions
 - <https://t.me/defiblockchain_DE> DACH (german speaking) DFI-channel for general DFI-discussions
 - <https://t.me/mydefichain> Discussions about masternodes (english speaking)
-- https://t.me/Bake_DACH Exchange and platform for decentralized financial services.Offers DFI and DFI staking (german speaking)
-- https://t.me/Bake_EN Exchange and platform for decentralized financial services.Offers DFI and DFI staking (english speaking)
+- https://t.me/Bake_DACH Exchange and platform for decentralized financial services.
+- https://t.me/Bake_EN Exchange and platform for decentralized financial services.
 
 
 ## DMC projects
@@ -18,6 +18,7 @@ title: Links
 - https://linktr.ee/crypto.factor
 - https://www.dex-trading.live/
 - https://dapp.tax-token.com/staking
+- https://defichaincommunity.github.io/cAssets_dToken_wrapper/
 
 ## Masternode provider
 

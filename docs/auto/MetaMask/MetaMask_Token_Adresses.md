@@ -1,7 +1,134 @@
 ---
-title: Token Adresses
-description: Token addresses for MetaMask on DeFiMetaChain.
+title: Import Tokens
+description: How to import any token address into MetaMask.
 ---
+
+# 🪙 Importing Tokens into MetaMask
+
+> Step-by-step guide to importing token addresses into MetaMask · Desktop & Smartphone
+
+## 📋 Table of Contents
+
+- [💡 What is a Token Import?](#-what-is-a-token-import)
+- [💻 Desktop – Import Token](#-desktop--import-token)
+- [📱 Smartphone – Import Token](#-smartphone--import-token)
+- [🔍 Finding a Token Address](#-finding-a-token-address)
+- [⚠️ Security Warnings](#-security-warnings)
+
+
+---
+
+
+## 💡 What is a Token Import?
+
+By default, MetaMask only displays **ETH** (or the native token of the active network). Other tokens such as ERC-20 tokens must be added manually so MetaMask can recognise and display them.
+
+To do this, you need the **token contract address** – a unique address on the blockchain that identifies the token.
+
+> ℹ️ Importing a token is **free** and has no effect on your balance. It simply makes the token visible in MetaMask.
+
+
+---
+
+
+## 💻 Desktop – Import Token
+
+### Step 1 – Select the Correct Network
+
+Make sure you are on the **correct network**. A token always exists on one specific blockchain only.
+
+```
+🦊 MetaMask → Network Dropdown → Select Network
+```
+
+> ⚠️ An Ethereum token only works on the Ethereum network, a Polygon token only on Polygon, etc.
+
+### Step 2 – Open "Import Token"
+
+Scroll down in the MetaMask window until you see the **"Tokens"** tab.
+
+Click **"Import tokens"**.
+
+### Step 3 – Enter the Token Address
+
+Paste the **token contract address** into the first field.
+
+MetaMask will automatically fill in:
+- **Token symbol** (e.g. `USDC`, `DAI`, `LINK`)
+- **Decimals** (usually `18`)
+
+> 💡 If the symbol does not appear automatically, you can enter it manually.
+
+### Step 4 – Add the Token
+
+Click **"Import tokens"** and confirm.
+
+> ✅ The token will now appear in your token list under the "Tokens" tab!
+
+
+---
+
+
+## 📱 Smartphone – Import Token
+
+The process is **identical on iOS and Android**.
+
+### Step 1 – Select the Correct Network
+
+Tap the **network name** at the top and select the correct network.
+
+### Step 2 – Open "Import Token"
+
+On the home screen, tap the **"Tokens"** tab.
+
+Then tap **"Import tokens"**.
+
+### Step 3 – Enter the Token Address
+
+Tap **"Custom token"** and paste the **token contract address**.
+
+MetaMask will automatically fill in:
+- **Token symbol**
+- **Decimals**
+
+### Step 4 – Add the Token
+
+Tap **"Import"** and confirm.
+
+> ✅ The token will now appear in your token list!
+
+
+---
+
+
+## 🔍 Finding a Token Address
+
+You can find the token contract address in the following ways:
+
+### Option 1 – Block Explorer
+
+Go to the block explorer of the relevant network and search for the token name:
+
+| Network | Block Explorer |
+|---------|---------------|
+| Ethereum | [etherscan.io](https://etherscan.io) |
+| Polygon | [polygonscan.com](https://polygonscan.com) |
+| BNB Chain | [bscscan.com](https://bscscan.com) |
+| Arbitrum | [arbiscan.io](https://arbiscan.io) |
+| DeFiMetaChain | [mainnet-dmc.mydefichain.com:8441](https://mainnet-dmc.mydefichain.com:8441) |
+
+### Option 2 – CoinGecko / CoinMarketCap
+
+1. Search for the token on [coingecko.com](https://coingecko.com)
+2. Scroll to the **"Contract"** section
+3. Copy the address for the correct network
+
+### Option 3 – Official Project Website
+
+Many projects list their token address directly on their official website or documentation.
+
+---
+
 
 import CopyButton from '@site/src/components/CopyButton';
 

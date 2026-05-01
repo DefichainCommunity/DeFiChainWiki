@@ -241,7 +241,7 @@ const sidebars = {
               },
               items: ["auto/Lightwallet", "auto/Lightwallet_change_Ocean"],
             },
-          {
+ {
   type: "category",
   label: "MetaMask",
   link: {
@@ -251,6 +251,17 @@ const sidebars = {
   items: [
     "auto/MetaMask/MetaMask_Wallet",
     "auto/MetaMask/MetaMask_Token_Adresses",
+  ],
+},
+{
+  type: "category",
+  label: "DeFiChain Network Setup",
+  link: {
+    type: "generated-index",
+    description: "How to set up the DeFiMetaChain network in MetaMask.",
+  },
+  items: [
+    "auto/DeFiChain_Network_Setup/Network_Setup_EN",
   ],
 },
            

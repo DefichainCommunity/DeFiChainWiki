@@ -14,7 +14,7 @@ description: How to use the Dex Trading Live dApp with MetaMask in the browser.
 - [📡 Step 2 – Select the Correct Network](#-step-2--select-the-correct-network)
 - [🪙 Step 3 – DTL Token Staking](#-step-3--dtl-token-staking)
 - [💧 Step 4 – Liquidity Mining](#-step-4--liquidity-mining)
-- [🎁 Step 5 – Claim Rewards
+- [🎁 Step 5 – Claim Rewards](#-step-5--claim-rewards).
 
 
 ---

@@ -96,11 +96,7 @@ MetaMask will open automatically:
 
 The dApp runs on **DeFiMetaChain**. If MetaMask shows the wrong network:
 
-Click **"Switch Network"** and confirm in MetaMask, or switch manually:
-
-```
-MetaMask → Network Dropdown → DeFiMetaChain (mydefichain)
-```
+Click **"Switch Network"** and confirm in MetaMask
 
 > ✅ Once the correct network is active, the dApp will show your DTL balance.
 

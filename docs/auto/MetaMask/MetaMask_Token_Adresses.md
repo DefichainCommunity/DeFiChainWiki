@@ -50,7 +50,7 @@ Click **"Import tokens"**.
 Paste the **token contract address** into the first field.
 
 MetaMask will automatically fill in:
-- **Token symbol** (e.g. `DFI`, `BTC`, `LINK`)
+- **Token symbol** (e.g. `DFI`, `CFR`, `LINK`)
 
 > 💡 If the symbol does not appear automatically, you can enter it manually.
 

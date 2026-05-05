@@ -37,7 +37,7 @@ To do this, you need the **token contract address** – a unique address on the 
 
 Make sure you are on the **correct network**. A token always exists on one specific blockchain only.
 
-> ⚠️ An Ethereum token only works on the Ethereum network, a Polygon token only on Polygon, etc.
+> ⚠️ An Ethereum token only works on the Ethereum network,a DeFiChain token only works on DeFiChain Network and a Polygon token only on Polygon, etc.
 
 ### Step 2 – Open "Import Token"
 
@@ -50,8 +50,7 @@ Click **"Import tokens"**.
 Paste the **token contract address** into the first field.
 
 MetaMask will automatically fill in:
-- **Token symbol** (e.g. `USDC`, `DAI`, `LINK`)
-- **Decimals** (usually `18`)
+- **Token symbol** (e.g. `DFI`, `BTC`, `LINK`)
 
 > 💡 If the symbol does not appear automatically, you can enter it manually.
 
@@ -107,11 +106,11 @@ Go to the block explorer of the relevant network and search for the token name:
 
 | Network | Block Explorer |
 |---------|---------------|
+| DeFiMetaChain | [mainnet-dmc.mydefichain.com:8441](https://mainnet-dmc.mydefichain.com:8441) |
 | Ethereum | [etherscan.io](https://etherscan.io) |
 | Polygon | [polygonscan.com](https://polygonscan.com) |
 | BNB Chain | [bscscan.com](https://bscscan.com) |
 | Arbitrum | [arbiscan.io](https://arbiscan.io) |
-| DeFiMetaChain | [mainnet-dmc.mydefichain.com:8441](https://mainnet-dmc.mydefichain.com:8441) |
 
 ### Option 2 – CoinGecko / CoinMarketCap
 
@@ -123,7 +122,9 @@ Go to the block explorer of the relevant network and search for the token name:
 
 Many projects list their token address directly on their official website or documentation.
 
----
+### Option 4 - DeFiChain Wiki (DeFiMetaChain token only)
+
+List of all DeFiMetaChain tokens
 
 import CopyButton from '@site/src/components/CopyButton';
 

@@ -100,7 +100,18 @@ const sidebars = {
       },
       items: [
         "auto/Buy",
-       {
+        {
+          type: "category",
+          label: "Chain Report",
+          link: {
+            type: "generated-index",
+            description: "Reports and analysis about the DeFiChain ecosystem.",
+          },
+          items: [
+            "auto/Chain_Report",
+          ],
+        },
+        {
           type: "category",
           label: "DMC - DeFiMetaChain",
           link: {
@@ -241,29 +252,29 @@ const sidebars = {
               },
               items: ["auto/Lightwallet", "auto/Lightwallet_change_Ocean"],
             },
-           {
-  type: "category",
-  label: "MetaMask",
-  link: {
-    type: "generated-index",
-    description: "Everything about MetaMask.",
-  },
-  items: [
-    "auto/MetaMask/MetaMask_Wallet",
-    "auto/MetaMask/MetaMask_Token_Adresses",
-    {
-      type: "category",
-      label: "DeFiChain Network Setup",
-      link: {
-        type: "generated-index",
-        description: "How to set up the DeFiMetaChain network in MetaMask.",
-      },
-      items: [
-        "auto/DeFiChain_Network_Setup/Network_Setup_EN",
-      ],
-    },
-  ],
-},
+            {
+              type: "category",
+              label: "MetaMask",
+              link: {
+                type: "generated-index",
+                description: "Everything about MetaMask.",
+              },
+              items: [
+                "auto/MetaMask/MetaMask_Wallet",
+                "auto/MetaMask/MetaMask_Token_Adresses",
+                {
+                  type: "category",
+                  label: "DeFiChain Network Setup",
+                  link: {
+                    type: "generated-index",
+                    description: "How to set up the DeFiMetaChain network in MetaMask.",
+                  },
+                  items: [
+                    "auto/DeFiChain_Network_Setup/Network_Setup_EN",
+                  ],
+                },
+              ],
+            },
           ],
         },
         "auto/Cashflow_Options",
@@ -324,7 +335,7 @@ const sidebars = {
         "auto/Masternode_service",
         "auto/Vault_maxi",
       ],
-     },
+    },
     "auto/Contribute",
     "auto/Links",
   ],

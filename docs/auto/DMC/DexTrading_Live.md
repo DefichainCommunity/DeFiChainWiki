@@ -22,7 +22,7 @@ description: How to use the Dex Trading Live dApp with MetaMask in the browser.
 
 ## 💡 What is Dex Trading Live?
 
-**Dex Trading Live (DTL)** is a community-driven DeFi project providing 100% self-custody solutions for interacting with DeFi protocols. The project is based on **.
+**Dex Trading Live (DTL)** is a community-driven DeFi project providing 100% self-custody solutions for interacting with DeFi protocols. The project is based on *DeFiMetaChain*.
 
 | Feature | Description |
 |---------|-------------|

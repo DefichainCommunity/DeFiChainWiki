@@ -100,17 +100,7 @@ const sidebars = {
       },
       items: [
         "auto/Buy",
-        {
-          type: "category",
-          label: "Chain Report",
-          link: {
-            type: "generated-index",
-            description: "Reports and analysis about the DeFiChain ecosystem.",
-          },
-          items: [
-            "auto/Chain_Report",
-          ],
-        },
+        "auto/Chain_Report",
         {
           type: "category",
           label: "DMC - DeFiMetaChain",

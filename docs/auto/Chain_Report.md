@@ -1,8 +1,15 @@
+---
+title: chain.report – Setup Guide
+description: This page explains how to set up chain.report for DeFiChain and DefiMetaChain tax reporting.
+---
+
 # 📋 chain.report – Setup Guide
 
 > **chain.report** is a crypto tax tool that imports transactions from exchanges and wallets and generates a legally compliant tax report.
 
+
 ---
+
 
 ## 📋 Table of Contents
 

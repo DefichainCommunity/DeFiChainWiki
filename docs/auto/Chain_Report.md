@@ -1,24 +1,28 @@
 ---
-title: chain.report
+title: chain.report – Setup Guide
 description: This page explains how to set up chain.report for DeFiChain and DefiMetaChain tax reporting.
 ---
 
 # 📋 chain.report – Setup Guide
 
-**chain.report** is a crypto tax tool that imports transactions from exchanges and wallets and generates a legally compliant tax report.
+> **chain.report** is a crypto tax tool that imports transactions from exchanges and wallets and generates a legally compliant tax report.
 
 ---
+
+
 
 ## 📋 Table of Contents
 
 - [🔐 Create an Account](#-create-an-account)
 - [🏦 Add an Exchange](#-add-an-exchange)
-- [⛓️ Add a DeFiChain Wallet](#️-add-a-defichain-wallet)
+- [⛓️ Add a DeFiChain Wallet](#%EF%B8%8F-add-a-defichain-wallet)
 - [🦊 DefiMetaChain – Lightwallet / EVM Address](#-defimetachain--lightwallet--evm-address)
 - [🦊 DefiMetaChain – MetaMask Address](#-defimetachain--metamask-address)
-- [🗂️ Create a Subwallet](#️-create-a-subwallet)
+- [🗂️ Create a Subwallet](#%EF%B8%8F-create-a-subwallet-for-dapps--smart-contracts)
+
 
 ---
+
 
 ## 🔐 Create an Account
 
@@ -26,7 +30,9 @@ description: This page explains how to set up chain.report for DeFiChain and Def
 2. Click the **confirmation link** in the email sent to you by chain.report.
 3. Log in at [chain.report/en/sign-in/](https://chain.report/en/sign-in/).
 
+
 ---
+
 
 ## 🏦 Add an Exchange
 
@@ -37,15 +43,15 @@ description: This page explains how to set up chain.report for DeFiChain and Def
    - Copy the key & secret
 4. Enter the API key and secret in chain.report and click **"Save"**.
 
-:::warning
-**Never** grant the API key trading or withdrawal permissions – read-only access is all that is required.
-:::
+> [!WARNING]
+> **Never** grant the API key trading or withdrawal permissions – read-only access is all that is required.
 
-:::tip
-The automatic API import is easier and more accurate than a manual CSV import.
-:::
+> [!TIP]
+> The automatic API import is easier and more accurate than a manual CSV import.
+
 
 ---
+
 
 ## ⛓️ Add a DeFiChain Wallet
 
@@ -62,15 +68,15 @@ The classic DeFiChain address starts with **`d...`** – no API key required.
 
 3. Enter the address and click **"Save"**.
 
-:::warning
-Only enter your **public wallet address** – never your private key or seed phrase!
-:::
+> [!WARNING]
+> Only enter your **public wallet address** – never your private key or seed phrase!
 
-:::note
-Multiple DeFiChain addresses? Repeat the steps for each additional address.
-:::
+> [!NOTE]
+> Multiple DeFiChain addresses? Repeat the steps for each additional address.
+
 
 ---
+
 
 ## 🦊 DefiMetaChain – Lightwallet / EVM Address
 
@@ -81,7 +87,9 @@ DMC addresses start with **`0x...`**. **Two separate addresses** must be added �
 3. Tap **"Receive"** and copy the `0x...` address.
 4. Enter the address in chain.report and click **"Save"**.
 
+
 ---
+
 
 ## 🦊 DefiMetaChain – MetaMask Address
 
@@ -92,13 +100,14 @@ This is the second DMC address – the one from your MetaMask wallet.
 3. Copy the displayed `0x...` address.
 4. Enter the address in chain.report and click **"Save"**.
 
-:::note
-The Lightwallet EVM address and the MetaMask address are **two different `0x...` addresses** and must both be added separately to ensure all transactions are captured completely.
-:::
+> [!NOTE]
+> The Lightwallet EVM address and the MetaMask address are **two different `0x...` addresses** and must both be added separately to ensure all transactions are captured completely.
+
 
 ---
 
-## 🗂️ Create a Subwallet
+
+## 🗂️ Create a Subwallet 
 
 When you use dApps on the DefiMetaChain—e.g., for staking, liquidity mining, or other protocols—your wallet interacts with a smart contract belonging to the respective service provider.
 chain.report cannot automatically and correctly identify all smart contracts.
@@ -107,9 +116,8 @@ In such cases, creating a sub-wallet within the service provider's specific wall
 
 The detected transactions must then be processed and assigned to this sub-wallet.
 
-:::warning
-Without processed transactions and a sub-wallet, chain.report cannot recognize a staking deposit as such; the tokens will simply appear to "vanish" and will be treated incorrectly for tax purposes.
-:::
+> [!WARNING]
+> Without processed transactions and a sub-wallet, chain.report cannot recognize a staking deposit as such; the tokens will simply appear to "vanish" and will be treated incorrectly for tax purposes.
 
 **Example:** When you deposit tokens into a dApp (e.g. staking with Crypto Factor), those tokens are sent to the dApp's smart contract. The subwallet maps this smart contract inside chain.report – so the deposit is correctly recognised as a *transfer to the staking contract* and later payouts are recognised as *rewards or returns*.
 
@@ -120,20 +128,13 @@ Without processed transactions and a sub-wallet, chain.report cannot recognize a
    You can find it in the official documentation or GitHub repository of the respective dApp.
 5. Confirm with **"Save"**.
 
-:::note
-Repeat this process for **every dApp you use**. You can create as many subwallets as needed within a single MetaChain wallet.
-:::
+> [!NOTE]
+> Repeat this process for **every dApp you use**. You can create as many subwallets as needed within a single MetaChain wallet.
 
-:::tip
-Use descriptive names (e.g. `Crypto_Factor`, `DMC_DEX`) so you can immediately identify which transactions belong to which dApp in your tax report.
-:::
+> [!TIP]
+> Use descriptive names (e.g. `Crypto_Factor`, `DMC_DEX`) so you can immediately identify which transactions belong to which dApp in your tax report.
 
 ---
 
-# 🔗 chain.report – Links
 
-| | Link |
-|---|---|
-| 🎬 **Tutorial Video** | [youtube.com/watch?v=akh1xCcrTHM](https://www.youtube.com/watch?v=akh1xCcrTHM) |
-| 📺 **YouTube Channel** | [youtube.com/@chain.report](https://www.youtube.com/@chain.report) |
-| 🔐 **Login** | [chain.report/en/sign-in/](https://chain.report/en/sign-in/) |
+

@@ -43,11 +43,9 @@ description: This page explains how to set up Chain.Report for DeFiChain and Def
    - Copy the key & secret
 4. Enter the API key and secret in chain.report and click **"Save"**.
 
-> [!WARNING]
-> **Never** grant the API key trading or withdrawal permissions – read-only access is all that is required.
+> ⚠️ **Never** grant the API key trading or withdrawal permissions – read-only access is all that is required.
 
-> [!TIP]
-> The automatic API import is easier and more accurate than a manual CSV import.
+> ℹ️ The automatic API import is easier and more accurate than a manual CSV import.
 
 
 ---
@@ -68,11 +66,10 @@ The classic DeFiChain address starts with **`d...`** – no API key required.
 
 3. Enter the address and click **"Save"**.
 
-> [!WARNING]
-> Only enter your **public wallet address** – never your private key or seed phrase!
 
-> [!NOTE]
-> Multiple DeFiChain addresses? Repeat the steps for each additional address.
+> ⚠️ Only enter your **public wallet address** – never your private key or seed phrase!
+
+> 💡 Multiple DeFiChain addresses? Repeat the steps for each additional address.
 
 
 ---
@@ -100,8 +97,8 @@ This is the second DMC address – the one from your MetaMask wallet.
 3. Copy the displayed `0x...` address.
 4. Enter the address in chain.report and click **"Save"**.
 
-> [!NOTE]
-> The Lightwallet EVM address and the MetaMask address are **two different `0x...` addresses** and must both be added separately to ensure all transactions are captured completely.
+
+> 💡 The Lightwallet EVM address and the MetaMask address are **two different `0x...` addresses** and must both be added separately to ensure all transactions are captured completely.
 
 
 ---
@@ -116,8 +113,8 @@ In such cases, creating a sub-wallet within the service provider's specific wall
 
 The detected transactions must then be processed and assigned to this sub-wallet.
 
-> [!WARNING]
-> Without processed transactions and a sub-wallet, chain.report cannot recognize a staking deposit as such; the tokens will simply appear to "vanish" and will be treated incorrectly for tax purposes.
+
+> ⚠️ Without processed transactions and a sub-wallet, chain.report cannot recognize a staking deposit as such; the tokens will simply appear to "vanish" and will be treated incorrectly for tax purposes.
 
 **Example:** When you deposit tokens into a dApp (e.g. staking with Crypto Factor), those tokens are sent to the dApp's smart contract. The subwallet maps this smart contract inside chain.report – so the deposit is correctly recognised as a *transfer to the staking contract* and later payouts are recognised as *rewards or returns*.
 
@@ -128,11 +125,10 @@ The detected transactions must then be processed and assigned to this sub-wallet
    You can find it in the official documentation or GitHub repository of the respective dApp.
 5. Confirm with **"Save"**.
 
-> [!NOTE]
-> Repeat this process for **every dApp you use**. You can create as many subwallets as needed within a single MetaChain wallet.
 
-> [!TIP]
-> Use descriptive names (e.g. `Crypto_Factor`, `DMC_DEX`) so you can immediately identify which transactions belong to which dApp in your tax report.
+> 💡 Repeat this process for **every dApp you use**. You can create as many subwallets as needed within a single MetaChain wallet.
+
+> ℹ️ Use descriptive names (e.g. `Crypto_Factor`, `DMC_DEX`) so you can immediately identify which transactions belong to which dApp in your tax report.
 
 ---
 

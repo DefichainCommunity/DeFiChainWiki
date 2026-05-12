@@ -11,10 +11,9 @@ description: How to stake the TAX Token using MetaMask in the dApp.
 - [💡 What is the TAX Token?](#-what-is-the-tax-token)
 - [✅ Requirements](#-requirements)
 - [🔌 Step 1 – Open the dApp & Connect Wallet](#-step-1--open-the-dapp--connect-wallet)
-- [📡 Step 2 – Select the Correct Network](#-step-2--select-the-correct-network)
-- [🪙 Step 3 – Stake TAX Tokens](#-step-3--stake-tax-tokens)
-- [🎁 Step 4 – Claim Rewards](#-step-4--claim-rewards)
-- [🔓 Step 5 – Unstake (Withdraw Tokens)](#-step-5--unstake-withdraw-tokens)
+- [🪙 Step 2 – Stake TAX Tokens](#-step-3--stake-tax-tokens)
+- [🎁 Step 3 – Claim Rewards](#-step-4--claim-rewards)
+- [🔓 Step 4 – Unstake (Withdraw Tokens)](#-step-5--unstake-withdraw-tokens)
 
 
 ---
@@ -84,33 +83,16 @@ dapp.tax-token.com
 ---
 
 
-## 📡 Step 2 – Select the Correct Network
+## 🪙 Step 2 – Stake TAX Tokens
 
-```
-MetaMask → Network Dropdown → DeFiMetaChain (mydefichain)
-```
-
-| Field | Value |
-|-------|-------|
-| Network Name | `DeFiMetaChain` |
-| RPC URL | `https://dmc.mydefichain.com/mainnet` |
-| Chain ID | `1130` |
-| Symbol | `DFI` |
-
-
----
-
-
-## 🪙 Step 3 – Stake TAX Tokens
-
-### 3.1 – Open the Staking Page
+### 2.1 – Open the Staking Page
 
 You are already on the staking page at `/staking`. You will see:
 - Your TAX balance
 - Your currently staked amount
 - The current APR / reward rate
 
-### 3.2 – Approve the Token (first time only)
+### 2.2 – Approve the Token (first time only)
 
 On **first use**, you need to allow MetaMask to use your TAX tokens:
 
@@ -121,11 +103,11 @@ On **first use**, you need to allow MetaMask to use your TAX tokens:
 
 > ℹ️ The approval transaction is a one-time step and costs a small gas fee. It only needs to be done once per token.
 
-### 3.3 – Enter the Amount
+### 2.3 – Enter the Amount
 
 Enter the **TAX amount** you want to stake, or click **"Max"** to stake everything.
 
-### 3.4 – Confirm the Stake
+### 2.4 – Confirm the Stake
 
 1. Click **"Stake"**
 2. MetaMask opens with the transaction request
@@ -138,7 +120,7 @@ Enter the **TAX amount** you want to stake, or click **"Max"** to stake everythi
 ---
 
 
-## 🎁 Step 4 – Claim Rewards
+## 🎁 Step 3 – Claim Rewards
 
 Staked TAX tokens automatically generate rewards. These are displayed under **"Rewards"** or **"Claimable"**.
 
@@ -152,7 +134,7 @@ Staked TAX tokens automatically generate rewards. These are displayed under **"R
 ---
 
 
-## 🔓 Step 5 – Unstake (Withdraw Tokens)
+## 🔓 Step 4 – Unstake (Withdraw Tokens)
 
 To withdraw your TAX tokens:
 

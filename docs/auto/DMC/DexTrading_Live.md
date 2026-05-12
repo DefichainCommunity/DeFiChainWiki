@@ -11,10 +11,9 @@ description: How to use the Dex Trading Live dApp with MetaMask in the browser.
 - [💡 What is Dex Trading Live?](#-what-is-dex-trading-live)
 - [✅ Requirements](#-requirements)
 - [🔌 Step 1 – Open the dApp & Connect Wallet](#-step-1--open-the-dapp--connect-wallet)
-- [📡 Step 2 – Select the Correct Network](#-step-2--select-the-correct-network)
-- [🪙 Step 3 – DTL Token Staking](#-step-3--dtl-token-staking)
-- [💧 Step 4 – Liquidity Mining](#-step-4--liquidity-mining)
-- [🎁 Step 5 – Claim Rewards](#-step-5--claim-rewards)
+- [🪙 Step 2 – DTL Token Staking](#-step-3--dtl-token-staking)
+- [💧 Step 3 – Liquidity Mining](#-step-4--liquidity-mining)
+- [🎁 Step 4 – Claim Rewards](#-step-5--claim-rewards)
 
 
 ---
@@ -92,23 +91,11 @@ MetaMask will open automatically:
 ---
 
 
-## 📡 Step 2 – Select the Correct Network
-
-The dApp runs on **DeFiMetaChain**. If MetaMask shows the wrong network:
-
-Click **"Switch Network"** and confirm in MetaMask
-
-> ✅ Once the correct network is active, the dApp will show your DTL balance.
-
-
----
-
-
-## 🪙 Step 3 – DTL Token Staking
+## 🪙 Step 2 – DTL Token Staking
 
 DTL Staking uses a **vault system** with lock periods – the longer you stake, the higher the rewards.
 
-### 3.1 – Open the Staking Page
+### 2.1 – Open the Staking Page
 
 Navigate to the staking page:
 
@@ -121,7 +108,7 @@ You will see:
 - Current **APR / reward rate**
 - Your **active vaults** with lock periods
 
-### 3.2 – Approve the Token (first time only)
+### 2.2 – Approve the Token (first time only)
 
 The **first time**, you need to allow MetaMask to use your DTL tokens:
 
@@ -132,7 +119,7 @@ The **first time**, you need to allow MetaMask to use your DTL tokens:
 
 > ℹ️ Only needed once per token – costs a small gas fee in DFI.
 
-### 3.3 – Create a Vault & Stake
+### 2.3 – Create a Vault & Stake
 
 1. Choose your **lock period**
 2. Enter the **DTL amount**
@@ -144,25 +131,24 @@ The **first time**, you need to allow MetaMask to use your DTL tokens:
 > 💡 **Tip – Multiple Vaults:** Want different lock periods? Simply use a different wallet address for each vault!
 
 
-
 ---
 
 
-## 💧 Step 4 – Liquidity Mining
+## 💧 Step 3 – Liquidity Mining
 
 With Liquidity Mining you provide token pairs as liquidity and earn trading fees and DTL rewards in return.
 
-### 4.1 – Open the Liquidity Mining Page
+### 3.1 – Open the Liquidity Mining Page
 
 ```
 https://dapp.dex-trading.live/liquidity-mining
 ```
 
-### 4.2 – Choose a Pool
+### 3.2 – Choose a Pool
 
 Select one of the available pools
 
-### 4.3 – Add Liquidity
+### 3.3 – Add Liquidity
 
 1. Enter the amount of the **first token**
 2. The second token amount is calculated automatically
@@ -172,7 +158,7 @@ Select one of the available pools
 
 > ✅ You receive **LP tokens** as proof of your liquidity – these represent your share of the pool.
 
-### 4.4 – Remove Liquidity
+### 3.4 – Remove Liquidity
 
 1. Click **"Remove Liquidity"**
 2. Enter the LP token amount
@@ -184,7 +170,7 @@ Select one of the available pools
 ---
 
 
-## 🎁 Step 5 – Claim Rewards
+## 🎁 Step 4 – Claim Rewards
 
 ### Claim Rewards
 

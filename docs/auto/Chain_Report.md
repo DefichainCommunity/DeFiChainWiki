@@ -130,7 +130,14 @@ The detected transactions must then be processed and assigned to this sub-wallet
 
 > ℹ️ Use descriptive names (e.g. `Crypto_Factor`, `DMC_DEX`) so you can immediately identify which transactions belong to which dApp in your tax report.
 
+
 ---
 
 
+# 🔗 chain.report – Links
 
+| | Link |
+|---|---|
+| 🔐 **Login** | [chain.report/en/sign-in/](https://chain.report/en/sign-in/) |
+| 📺 **YouTube Channel** | [youtube.com/@chain.report](https://www.youtube.com/@chain.report) |
+| 🎬 **Tutorial Video** | [youtube.com/watch?v=akh1xCcrTHM](https://www.youtube.com/watch?v=akh1xCcrTHM) |

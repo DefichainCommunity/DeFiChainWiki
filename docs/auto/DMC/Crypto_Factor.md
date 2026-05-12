@@ -11,9 +11,8 @@ description: How to use the Crypto Factor dApp with MetaMask in the browser.
 - [💡 What is Crypto Factor?](#-what-is-crypto-factor)
 - [✅ Requirements](#-requirements)
 - [🔌 Step 1 – Open the dApp & Connect Wallet](#-step-1--open-the-dapp--connect-wallet)
-- [📡 Step 2 – Select the Correct Network](#-step-2--select-the-correct-network)
-- [🪙 Step 3 – Use CFR Staking](#-step-3--use-cfr-staking)
-- [💎 Step 4 – Use cDFI Community Staking](#-step-4--use-cdfi-community-staking)
+- [🪙 Step 2 – Use CFR Staking](#-step-3--use-cfr-staking)
+- [💎 Step 3 – Use cDFI Community Staking](#-step-4--use-cdfi-community-staking)
 
 
 ---
@@ -84,42 +83,15 @@ MetaMask will open automatically and ask you to approve the connection:
 ---
 
 
-## 📡 Step 2 – Select the Correct Network
+## 🪙 Step 2 – Use CFR Staking
 
-The Crypto Factor dApp runs on **DeFiMetaChain**.
-
-If MetaMask shows the wrong network, the dApp will prompt you to switch. Click **"Switch Network"** and confirm in MetaMask.
-
-If the network is not detected automatically, switch manually:
-
-```
-MetaMask → Network Dropdown → DeFiMetaChain (mydefichain)
-```
-
-**DeFiMetaChain network details:**
-
-| Field | Value |
-|-------|-------|
-| Network Name | `DeFiMetaChain` |
-| RPC URL | `https://dmc.mydefichain.com/mainnet` |
-| Chain ID | `1130` |
-| Symbol | `DFI` |
-
-> ✅ Once the correct network is active, the dApp will show your DFI and CFR balance.
-
-
----
-
-
-## 🪙 Step 3 – Use CFR Staking
-
-### 3.1 – Open the Staking Page
+### 2.1 – Open the Staking Page
 
 Click **"Staking"** in the navigation menu.
 
 You will see your current CFR balance, the current APR and your staked tokens.
 
-### 3.2 – Stake CFR
+### 2.2 – Stake CFR
 
 1. Enter the amount of CFR you want to stake
 2. Click **"Stake"**
@@ -129,7 +101,7 @@ You will see your current CFR balance, the current APR and your staked tokens.
 
 > ⏳ The transaction will be confirmed on the blockchain within a few seconds.
 
-### 3.3 – Claim Rewards
+### 2.3 – Claim Rewards
 
 Earned rewards are shown under **"Rewards"** or **"Claim"**.
 
@@ -139,11 +111,11 @@ Click **"Claim"** → confirm in MetaMask → rewards are transferred to your wa
 ---
 
 
-## 💎 Step 4 – Use cDFI Community Staking
+## 💎 Step 3 – Use cDFI Community Staking
 
 cDFI Staking lets you earn **Masternode rewards** without running your own Masternode.
 
-### 4.1 – Deposit DFI & Receive cDFI
+### 3.1 – Deposit DFI & Receive cDFI
 
 1. Navigate to the **cDFI Staking** section
 2. Enter the amount of DFI you want to deposit
@@ -153,17 +125,17 @@ cDFI Staking lets you earn **Masternode rewards** without running your own Maste
 
 > 💡 DFI is swapped for cDFI (1:1), the staked token is cDFI, and rewards are paid out in DFI.
 
-### 4.2 – Stake cDFI
+### 3.2 – Stake cDFI
 
 1. Enter the amount of cDFI
 2. Click **"Stake"**
 3. Confirm in MetaMask
 
-### 4.3 – Receive Rewards
+### 3.3 – Receive Rewards
 
 Rewards come from Masternode earnings and are distributed automatically. Click **"Claim"** to collect them.
 
-### 4.4 – Redeem cDFI (Withdraw)
+### 3.4 – Redeem cDFI (Withdraw)
 
 1. Click **"Withdraw"** or **"Unstake"**
 2. Enter the amount of cDFI
